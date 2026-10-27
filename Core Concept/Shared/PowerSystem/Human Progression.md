@@ -1,0 +1,7 @@
+- Humans primarily fight using weapons particularly [[Relic]]
+- Humans can get Chipped which locks them out of awakening 
+- This chip could be upgraded overtime to allow them to access the abilities of Relics
+- Certain relics would bed stronger and therefore would need a higher tier chip to allow them to use their abilities
+- Humans will also require a level of physical strength to wield certain relics
+- Humans are designed to carry multiple relics to make their move set
+- Unlike Awakened people they will not be able to change the ability of Relics and instead will need to hunt for Relics with abilities that they find desirable
