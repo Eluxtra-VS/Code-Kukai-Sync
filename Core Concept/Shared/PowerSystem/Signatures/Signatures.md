@@ -20,7 +20,7 @@ Index of named signature abilities. Each signature is a character's Class and pa
 | [[Monarch]] | [[Mai Takeda]] | Akarui | Forge | Mechanical ant constructs seeded with deference-Rei; saturation = bow |
 | [[Pure Extraction]] | [[Seong Ki]] | Reiki | Pulse | Specialised Luz/Kuro bullets through Extractor Anchor; includes forced Overdrive |
 | [[Rapt]] | [[Niko Juul]] | Weaver | Veil | Thread: Ears; hearing a signature name permanently absorbs that person's peak capacity — at compounding cost to his own sense of self |
-| [[Shackles]] | [[Aiden Takeda]] | Akarui | Forge | Contact with Forge construct forms shackle; sincerity stabilises (condition layer) |
+| [[Star Actor]] | [[Aiden Takeda]] | Akarui | Forge | Contact with Forge construct forms shackle; sincerity stabilises (condition layer) |
 | [[Warden]] | [[Jakar Offei]] | Akarui | Veil | *Application of Faultline, not a signature:* permanent bond with Kukai whose transformation Jakar directly caused |
 
 ---

@@ -46,7 +46,7 @@ Akarui Forge builds outside the body. Constructs exist independently — once ma
 
 **High mastery:** Constructs that self-modify after creation. A barrier that redirects rather than absorbs. A weapon that changes form mid-fight. Multiple simultaneous constructs managed as a coordinated environment. Persistent constructs maintained at low ongoing Rei cost between encounters.
 
-**Aiden Takeda's expression:** The Shackles. See [[Shackles]].
+**Aiden Takeda's expression:** The Shackles. See [[Star Actor]].
 
 **Mai Takeda's expression:** Monarch. See [[Monarch]].
 
@@ -115,7 +115,7 @@ Aoki mends — she wants things to be whole. *(Reclassified 2026-08-20: Weaver V
 - [[Weaver]] — internal expression; bodily transformation.
 - [[Reiki]] — displaced expression; Anchor reshaping.
 - [[Rei]] — the energy Forge solidifies into form.
-- [[Shackles]] — Aiden Takeda's Forge signature.
+- [[Star Actor]] — Aiden Takeda's Forge signature.
 - [[Monarch]] — Mai Takeda's Forge signature.
 - [[Aoki Sora]] — Weaver Vigor (was Forge, reclassified 2026-08-20); mending as the desire for wholeness.
 - [[Kukai]] — Forge locked to Kuro; constructs carrying collapsed emotional weight.

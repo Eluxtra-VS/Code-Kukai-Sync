@@ -70,6 +70,8 @@ A Kukai. Close enough to fill the frame. Head slowly tilted to the right — the
 **Panel 2 (Below, inset)**
 Pull back. First-person perspective from the ground, looking up. Grass in the foreground. The sky dark above. The Kukai's form silhouetted against it. The feet of the person we're viewing through are splayed on the grass — as if they've just tripped. One shoe half off.
 
+INSANE FORESHADOWING (this is all a vision that is the best outcome from Mel's vision)
+
 ---
 
 ### Page 4
@@ -235,10 +237,10 @@ He stops. His eyes catch on Kaito's face.
 ### Page 11
 
 **Panel 1**
-Close-up: Kaito's eyes. Right blue. Left brown. The light catches the blue one differently.
+Close-up: Kaito's eyes. The light catches the blue one differently.
 
 **Panel 2**
-The dock worker's face. He *looks*. Then he looks away — a deliberate motion, consciously breaking eye contact. Then he looks *again*. The double-take is slow enough that Kaito cannot possibly miss it.
+The dock worker's face. He *looks*. Then he looks away — a deliberate motion, consciously breaking eye contact. Then he looks *again*. The double-take is so obvious that Kaito couldn't possibly miss it.
 
 **Panel 3**
 Kaito's face. Completely neutral. He clocks both looks — the first one, the second one, the space between them. His expression does not change.
@@ -275,118 +277,336 @@ Kaito blinks. The flash is gone. He turns and walks back toward his mother.
 ### Page 13
 
 **Panel 1 (Wide)**
-A different part of the docks — a bench with a small table near the water, a young boy and girl sat down. Kaito is walking up to it with Hitori far in front. 
+
+The group is gathered around the picnic table. Mel spots Kaito approaching and immediately waves him over, shifting her things to make room.
+
+**MEL:**  
+Kaito! Over here!
+
+**KAITO:**  
+I can see you.
+
+**MEL:**  
+Then why are you standing all the way over there?
 
 **Panel 2**
-MEL SILVA approaches from the the table. Dark hair, warm eyes, a small woven bracelet visible at her wrist which is clearly handmade. She looks at Kaito and gets up. 
 
-**KAITO:**
-Hey Mel.
+Kaito sits beside her. Mel pulls the lid off one of the containers and turns it towards him, clearly pleased with what she’s brought.
 
-He smirks then looks at Hitori walking past to the table
+**MEL:**  
+Look what we’ve got! Hitori made feijoada.
 
-**MEL:**
-Hey Kaito, You have to come over here, look at all of this food!
+**KAITO:**  
+You actually got him to make it?
 
-**KAITO:**
-Wait hold on. Since when did you cook?
+**HITORI:**  
+You underestimate my cooking skills.
 
-**MEL**: 
-Oh it wasn't me, Hitori is quite the cook you know.
+**MEL:**  
+He started making it before I even finished asking.
+
+**HITORI:**  
+You asked me three times.
+
+**MEL:**  
+Because you kept saying “maybe.”
 
 **Panel 3**
-Baskets are shown with food inside alongside some containers with steam leaking outside them, all of it being nice and organized with precise presentation.
+
+Kaito looks at Hitori, who is busy arranging the containers. While Mel shuffles through the baskets trying to see what else is good.
+
+**MEL:**  
+Go on. Before Aiden gets here and eats half of it.
+
+**KAITO:**  
+Good point.
 
 ---
 
 ### Page 14
 
 **Panel 1**
-Mel points to one of the containers set on the table.
 
-**MEL:**
-Hmmm.. Here Kaito, your favorite!
+Kaito takes a spoonful. The spoon lightly clinks against the container. He chews, swallows, and takes another bite.
+
+Mel watches him for a moment, waiting for his reaction. When he gives her a small, approving nod, she grins and turns back to the table.
+
+**KAITO:**  
+This is really good, Hitori.
+
+**HITORI:**  
+Obviously.
+
+**MEL:**  
+See? I told you he'd like it.
+
+**KAITO:**  
+You say that like you made it.
+
+**MEL:**  
+I helped!
+
+**HITORI:**  
+You carried the containers.
+
+**MEL:**  
+I feel like that counts though? Does it not?
+
+She gives Kaito a look as if to tell him "Agree with me please."
 
 **Panel 2**
-Kaito opens the container, he lifts up his spoon full of feijoada and puts it in his mouth.
+
+Kaito quietly takes another spoonful while Mel tries to look offended. Hitori sits down opposite them.
+
+**KAITO:**  
+Very important job, actually.
+
+**MEL:**  
+Thank you. Finally, someone here respects me.
+
+**HITORI:**  
+I'll make sure to put “professional container carrier” on your CV.
+
+**MEL:**  
+Make it nice. I'll make sure to use it.
 
 **Panel 3**
-His eyes light up as he puts spoonful's into his mouth at a rapid pace
 
-**KAITO**:
-SO... GOOD.... *burp* Hats off to Hitori, this is good man. 
+Mel reaches across to steal a piece of food from Hitori's container. He moves it out of reach without even looking at her.
 
-**Panel 4:**
-**HITORI**:
-You underestimate my cooking skills. You peasant. 
+**MEL:**  
+Oi!
 
-But yeah i know, that took me a bit to make though, you guys eat some interesting dishes.
+**HITORI:**  
+Get your own.
 
-**Panel 5**
-Mel and Kaito both look at Hitori then look back, Kaito shrugs and Mel smirks.
+**MEL:**  
+I have my own. Yours just looked better.
+
+**KAITO:**  
+You literally helped set all of it out.
+
+**MEL:**  
+And I made an excellent choice.
 
 ---
 
 ### Page 15
 
 **Panel 1**
-AIDEN TAKEDA arrives like a truck — loud, gesturing, already mid-story before he's fully in the frame.
 
-**AIDEN:**
-SO BOOM — I gave him a hook to the jaw. BANG. The other 5 were all stunned. One came up and I got hit a *few* times but that's besides the point, I was dodging punches left and right—
+Aiden arrives like a truck, already halfway through his story. The others look up as he gestures wildly, nearly knocking into the table.
+
+**AIDEN:**  
+SO BOOM — I gave him a hook to the jaw. BANG. The other 5 were all stunned. One came up and I got hit a _few_ times but that's besides the point, I was dodging punches left and right—
 
 **Panel 2**
-Aiden pantomimes dodging, weaving. His body language is big. The performance is the point.
 
-**AIDEN:**
+Aiden demonstrates his dodging, weaving between imaginary opponents. Kaito shifts his drink out of the way before Aiden's elbow catches it.
+
+**AIDEN:**  
 —but obviously I beat them cause I'm so strong. Right, guys?
 
-**Panel 3**
-Silence. Then:
+**KAITO:**  
+You got hit a few times, though.
 
-**MEL:**
+**AIDEN:**  
+That's not the point.
+
+**MEL:**  
+Mhmmmm
+
+She nods enthusiastically
+
+**Panel 3**
+
+Mel leans back, looking thoroughly entertained.
+
+**MEL:**  
 Only six this time? That's a whole two less then the eight that you fought last time!
 
-**Panel 4:**
-Hitori — who has materialised at the edge of the group without anyone noticing — giving Aiden a look. The kind of look that says: *we all know that did NOT happen.*
+**AIDEN:**  
+Oh, come on! You weren't even there for that one!
+
+**MEL:**  
+Exactly. I had to hear about it for the next three days.
+
+**KAITO:**  
+Four, actually.
+
+**AIDEN:**  
+Why are you keeping count?!
+
+**KAITO:**  
+You told us the story four times.
+
+**Panel 4**
+
+Hitori looks at Aiden over his food. He doesn't say anything.
+
+Aiden notices.
+
+**AIDEN:**  
+What? Why are you looking at me like that?
+
+Hitori continues looking at him.
+
+**AIDEN:**  
+You guys are unbelievable.
 
 **Panel 5**
-Aiden clocks Hitori's look. His laugh comes out a bit too loud.
+
+Aiden drops into an empty seat, still shaking his head, then reaches for the food.
+
+**MEL:**  
+So what happened after you beat all six of them?
+
+**AIDEN:**  
+Finally, someone wants to hear the rest.
+
+**KAITO:**  
+I thought that was the rest.
+
+**AIDEN:**  
+Kaito, I swear—
 
 ---
 
 ### Page 16
 
-**Panel 1**
-Hitori walks back toward the table, cradling his hand.
+**Panel 1 (Wide)**
+
+The group settles back into eating and talking. Aiden is now explaining something with his mouth full; Mel points her spoon at him until he finishes chewing.
+
+**MEL:**  
+Swallow first. I can't understand a word you're saying.
+
+Aiden swallows.
+
+**AIDEN:**  
+I said, the guy was twice my size.
+
+**KAITO:**  
+How tall was he?
+
+**AIDEN:**  
+Why does that matter?
+
+**KAITO:**  
+I'm trying to picture it.
+
+**HITORI:**  
+He's making him taller every time he tells it.
+
+**AIDEN:**  
+I am NOT!
 
 **Panel 2**
-He sits down. Mel puts a band-aid on the table in front of him without a word. No eye contact. Just the object, placed exactly where his hand is going to be.
 
-**HITORI:**
-Thanks a bunch.
+Mel laughs, nearly leaning into Kaito. Kaito smiles and moves his drink away from her elbow before she knocks it over.
 
-**Panel 3 (Visual counterpoint — split page)**
+**MEL:**  
+Remember when you tried to convince us you could jump from the wall by the old shops onto the roof?
 
-*Left panel:* The dock worker, walking away. The Code spoken. "You won't be handed anything in life."
+**AIDEN:**  
+I could've made it.
 
-*Right panel:* Mel's band-aid, already on Hitori's hand. The Code contradicted. Care provided without being asked.
+**KAITO:**  
+You couldn't even get onto the wall.
 
-No commentary. No narration. The page makes the argument.
+**AIDEN:**  
+The wall was slippery!
+
+**HITORI:**  
+It was dry.
+
+**AIDEN:**  
+Nobody asked you!
+
+**Panel 3**
+
+Hitori reaches for another serving while Mel starts recounting the story with exaggerated gestures. Aiden protests over her, trying to correct every detail. Kaito adds little corrections of his own, making Mel laugh harder.
+
+For once, Kaito isn't searching for the right thing to say. He's simply keeping up.
+
+**MEL:**  
+And then he told us not to tell anyone.
+
+**KAITO:**  
+You told everyone the next morning.
+
+**MEL:**  
+Because he made us promise not to laugh!
+
+**AIDEN:**  
+You promised!
+
+**MEL:**  
+I did not promise not to laugh!
 
 **Panel 4**
-Kaito coughs — the kind of cough that precedes a question.
 
-**KAITO:**
-Hey guys — do you wanna go around looking for some abandoned places tomorrow?
+Aiden points at Kaito as if he's found an ally.
 
-Everyone turns toward him.
+**AIDEN:**  
+You're supposed to be on my side!
 
-**KAITO:**
-It's the summer holidays. So I think it'll be fun.
+Kaito pauses, considering this with mock seriousness.
+
+**KAITO:**  
+I don't remember agreeing to that.
+
+**HITORI:**  
+Smart choice.
+
+**AIDEN:**  
+I'm surrounded by traitors.
 
 **Panel 5**
-Mel nods. Aiden grins. Hitori shrugs — which for Hitori means yes. The response is unanimous without being coordinated.
+
+The laughter settles into casual chatter. Kaito glances around at them, then speaks up, a little tentatively but without overthinking it.
+
+**KAITO:**  
+Hey, do you guys want to go looking around some abandoned places tomorrow?
+
+**MEL:**  
+Like the old district?
+
+**KAITO:**  
+Yeah. It's the summer holidays. Could be fun.
+
+**AIDEN:**  
+Depends. Are we talking exploring, or are you planning to make us carry something heavy again?
+
+**KAITO:**  
+When have I ever made you carry something heavy?
+
+**HITORI:**  
+Last week.
+
+**MEL:**  
+And the week before that.
+
+**KAITO:**  
+Those were completely different situations.
+
+**MEL:**  
+Of course they were.
+
+**Panel 6**
+
+Aiden grins and leans back in his chair.
+
+**AIDEN:**  
+I'm in. If we find anything cool, I'm claiming it first.
+
+**MEL:**  
+You claim everything first.
+
+**HITORI:**  
+Then it's settled. Tomorrow.
+
+Kaito nods, looking a little more at ease as the conversation carries on around him.
 
 ---
 
@@ -1043,7 +1263,7 @@ Its body remains perfectly still.
 Kaito's face fills the panel. He is terrified, struggling to reconcile what he sees with the person who spoke to them earlier that day.
 
 **KAITO (small):**  
-No...**
+No...
 
 
 ---

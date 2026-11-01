@@ -209,7 +209,7 @@ Use these before scripting or changing a character:
 2. Split and script the scene-card clusters in [[Arc 1 — The Plate]].
 3. Script the priority cards in [[Arcs 2–3 — Pursuit and Tenebri]].
 4. Script [[Arc 4 — Inheritance]] after choosing its open evidence decision.
-5. Decide whether Aiden's final signature remains [[Shackles]] or evolves into Stagecraft.
+5. Decide whether Aiden's final signature remains [[Star Actor]] or evolves into Stagecraft.
 6. Keep the [[Divergence]] naming scene open until its emotional and tactical cost is designed.
 
 ---

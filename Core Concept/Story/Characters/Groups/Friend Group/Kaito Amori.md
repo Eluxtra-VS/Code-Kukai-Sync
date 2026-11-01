@@ -8,7 +8,6 @@ aliases:
   - Kaito
   - Kaito Amori
 ---
----
 
 # Kaito Amori
 
@@ -55,8 +54,6 @@ Right eye blue, left eye brown. The one flaw he can't fix sits at the top of a l
 | **Worse** | Self-revision during use degrades output and raises cost. The Inadequacy loop made mechanical |
 | **Naming lock** | [[Niko Juul]] can't take Divergence until Kaito claims the name out loud near him |
 
-He is also, genuinely, the nicest person most people who know him have met. Both things are true. The niceness is not a mask. The contempt running underneath it is not a performance. They coexist, and he has never examined what that costs him daily.
-
 ---
 
 # Full Detail
@@ -69,7 +66,7 @@ He looks restless even standing still. The heterochromia is the first thing anyo
 
 People find him easy to be around. Attentive, genuine, quick to notice when someone's struggling. They trust him and feel seen around him.
 
----
+Almost none of that matches what it's like from inside. The edit happens before he speaks, not after. Other people get patience when they're vulnerable; he gets contempt when he is, and the contempt has gotten fast enough that it arrives before the compassion does. He's also kind, and the kindness is real. Both run at once, and he's never looked at what that costs.
 
 ## The Core Word: Inadequacy
 
@@ -85,7 +82,7 @@ A Weaver turns Pressure back on himself because he believes the problem lives in
 
 ## Awakening: Yoshi as Catalyst
 
-## Mel Silva
+[[Yoshi Kusakabe]] outsourced his self-worth completely, until love became a test nobody knew they were taking. The healthy takeaway would be not making anyone else responsible for letting you be weak.
 
 Kaito takes the wrong lesson. Under Pressure he decides the unacceptable parts of himself have to go before he ends up like Yoshi. That's a Weaver resolution and it's misdirected. His Awakening gives him power through self-correction, and later the true Code shows him that correction without honesty is suppression wearing a better face.
 

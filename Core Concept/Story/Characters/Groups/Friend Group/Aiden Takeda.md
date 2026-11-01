@@ -8,103 +8,152 @@ aliases:
   - Aiden
   - Aiden Takeda
 ---
+# Star Actor
 
-# Aiden Takeda
-
-> He performs belief he does not have, and his constructs only hold when he forgets to perform.
-
-## At a Glance
-
-| Field                   | Value                                                               |
-| ----------------------- | ------------------------------------------------------------------- |
-| **Role**                | Friend group, the loud one; [[Kaito Amori]]'s foil                  |
-| **Age/Home**            | 15, [[Tidal Plate]]                                                 |
-| **Core Word**           | **Vainglory**, performed pride covering absent self-belief          |
-| **Path / Class**        | Akarui / Forge                                                      |
-| **Signature**           | **Shackles** (working name; possible evolution into **Stagecraft**) |
-| **Family**              | [[Mai Takeda]], older sibling; Tenebri, Sin of Pride                |
-| **Story start**         | Kyumin; awakens during the Yoshi incident                           |
-| **Real Representative** | Joshua                                                          |
-
-## Pressure
-
-Aiden leads with his chin and acts like he believes in himself more than anyone in the room, and he doesn't. The performance *is* the point: silence would reveal the absence underneath. Being seen feels, temporarily, like proof that he exists correctly, which is why recognition gives relief that never roots, and why he keeps needing more of it.
-
-## Link to Ability
-
-His first resolution under the Yoshi incident was external: make himself impossible to ignore, put himself between danger and everyone else. That makes him Akarui. He's Forge because he builds visible proof, things real enough to be believed. Mechanically, sincerity acts as a stabilizer condition. When he's watched, output overextends and breaks. When he stops performing, constructs become coordinated, economical, formidable. The power itself works. What's broken is his relationship with it.
-
-## Backstory
-
-He grew up around an older sibling whose ease looked effortless: recognition arriving unchased, rooms turning toward her. He absorbed the surface of Mai's Pride without understanding that what he was seeing was calcification. Everything loud in him is built against the fear of being ignorable.
-
-Before Mai's world took over, he was a dock-tier kid in the [[Aoki Sora|Netmenders' Tier]]: a gull-grey kite with a torn tail, and a neighbour girl two doors down who fixed his kite line without being asked. See [[Arc 2 — The Knot and the Announcement]] for the full backstory canon: she was evacuated at eight after the tier's Kukai incident, he was told she "went inland," and he did not recognise her again until her hands gave her away. He kept her mother's knot and the phrase "hold it like this and it won't slip" without knowing they were hers.
-
-## Design
-
-Leads with the body: chin up, chest out, taking space. Constructs are the honesty gauge. Early ones run large, ornate, structurally hollow; mature ones run plain, interlocking, load-bearing. Costume and pose language should read "stage performer" early and "engineer" late.
-
-## Power Snapshot
-
-| Field | Value |
-|---|---|
-| **Type** | Akarui (externalised) |
-| **Class** | Forge, desire to build something real, present, impossible to dismiss |
-| **Signature** | Shackles, contact-formed immobilisation at construct touch-points; multiple compound |
-| **Condition** | Sincerity as stabilizer. Tactical contact forms small clean shackles that hold; theatrical contact forms loud ones that break |
-| **Fix** | Fighting without an audience (or forgetting to care) → interlocking Forge architecture that lets others move better |
-| **Worse** | Chasing recognition → overextension, unconsolidated techniques, display-built constructs failing under pressure |
-| **Open decision** | Final named signature: keep **Shackles** or evolve into **Stagecraft** |
+**Character:** [[Aiden Takeda]]  
+**Class:** [[Forge]]  
+**Sin / Pressure:** Vainglory  
+**Status:** Working signature concept
 
 ---
 
-# Full Detail
+## Short Definition
 
-## Awakening
+**Star Actor** is Aiden Takeda's working Akarui Forge signature. It externalises his Vainglory through masks: each mask embodies a different, genuine aspect of Aiden's personality and grants a corresponding benefit.
 
-The Kukai is drawn toward human Pressure and awareness. Aiden answers in the only language he knows: he makes himself impossible to ignore. This time it isn't just performance. His need to be seen becomes a shield, pulling danger toward him and away from the group, and that is why he becomes Akarui. The same wound that saves people here can still corrupt him later if he mistakes the successful moment for proof he should keep chasing attention.
+The masks are not simply disguises or costumes. Each one gives form to a part of Aiden that already exists. Wearing a mask allows that aspect to come forward and shape how his Forge manifests.
 
-## The Mechanical Truth
+The masks are **truthful**. They respond to what Aiden is genuinely expressing, not merely what he wants other people to believe about him. If he starts performing confidence, boasting, or trying to look impressive, the manifestation deteriorates. The mask loses its supernatural properties and becomes an ordinary physical mask until he can embody its personality honestly again.
 
-When he knows people are watching and tries to impress, his Luz output goes unstable: overextension, reaches for unconsolidated techniques, losses he should have won, constructs designed to impress rather than work. When he isn't showing off, the output turns coordinated, economical, and formidable, less flashy, structurally sound, interlocking, serving the fight instead of asking to be admired. People read him as carrying too much pride. He actually carries too little self-belief to stop performing belief. He experiences the inconsistency as his ability being unreliable. He's right that it's unreliable. He's wrong about why.
+The first named mask is **Jester**.
 
-## Signature Direction: Forge as Vainglory
+---
 
-Forge fits him exactly: he is trying to make something visible enough to be believed. The question is what he builds.
+## Pressure Logic
 
-**Shackles** still function if the emphasis shifts. They force the encounter to stay with him. What he fears is becoming ignorable, and a shackle says: *stay here, look here, this matters because I am here.*
+Aiden's Vainglory covers the fear of being ignorable: performed pride stands over absent self-belief. His deepest desire is to build something real enough that it cannot be dismissed — visible proof that he exists correctly. This connects to Forge's desire to make something real enough to stay.
 
-- **Condition:** direct construct-to-target contact; shackle forms at the point of contact.
-- **Effect:** immobilises the contacted point; multiple shackles compound.
-- **Arc limitation:** formed while showing off, larger, louder, unstable, breaking under pressure. Formed tactically or unwatched, smaller, cleaner, holding properly.
+Star Actor expresses this pressure through its truthful nature. Aiden can create different personas and draw on their strengths, but he cannot bluff his way into becoming them. The harder he tries to prove that he is extraordinary, the more ordinary his manifestations become.
 
-**Stagecraft (possible evolved name):** Aiden builds the stage that could make him real. Early Stagecraft is flashy but sloppy. Mature Stagecraft is clean coordinated architecture that lets *others* move better instead of making him look better.
+His central contradiction is that he wants to be seen as impressive, yet his power works best when he stops performing for approval.
 
-He keeps reading the inconsistency as his ability being unreliable, and keeps misreading the cause.
+**Core principle:** The masks reward authenticity, not the appearance of authenticity.
 
-## The Sibling Mirror
+---
 
-[[Mai Takeda]] is the endpoint of the road he walks. What he absorbed was the surface: competence that never announces itself, attention that never gets chased. What he hasn't understood is that her ease is Pride calcified past needing to feel recognised. When he learns what she is, fighting her won't be the hard part. The hard part will be looking at the endpoint of his own desire and choosing to stop before he arrives.
+## The Core Mechanic
 
-## Kaito Contrast
+Aiden creates solid Forge constructs. When one of those constructs makes direct contact with a target, he can form a shackle at the point of contact.
 
-Both touch Pride from opposite directions. Aiden performs outward: *"See me, so I can borrow belief from your attention."* Kaito edits inward: *"Do not see anything incomplete in me."* They're foils rather than copies.
+A shackle immobilises the contacted point:
+
+- A shackle on a wrist locks the wrist.
+- A shackle on an ankle locks the ankle.
+- Multiple shackles compound until the target's movement is reduced to whatever parts remain free.
+
+This remains the baseline mechanic of Aiden's Forge. Star Actor's masks give different aspects of his personality a way to influence how his power is expressed. A mask's individual benefit can supplement or alter his approach, but it should still feel like an expression of Forge rather than an unrelated power system.
+
+---
+
+## The Masks
+
+### Jester
+
+**Status:** First named mask  
+**Personality:** Playful, irreverent, mischievous, unpredictable  
+**Proposed ability:** Fireworks / Misdirection
+
+Jester represents Aiden's playful side: the part of him that enjoys fooling around, surprising people, and treating a situation like a game. Its ability is deliberately flashy, but not especially powerful in direct combat.
+
+When Jester is manifested, Aiden can create bright, sudden bursts of Forge light and colour — essentially supernatural fireworks. These bursts are designed primarily to **blind, distract, and disorient** opponents rather than injure them. They can interrupt an enemy's focus, obscure Aiden's next move, or create a brief opening for him to reposition or land a construct.
+
+The fireworks are visually dramatic, but their direct force is weak. Jester wins moments, not battles. Its value comes from distraction and timing, not raw damage.
+
+Possible uses include:
+
+- **Flash Burst:** A sudden flare that briefly overwhelms an opponent's vision.
+- **Scattershot:** Several small fireworks burst at different angles, making it harder to track Aiden's real movement.
+- **False Opening:** A bright display draws an opponent's attention away from a shackle or another construct being positioned.
+- **Grand Finale:** A larger, colourful burst creates a stronger distraction, but remains more useful for escaping or setting up a follow-up than for dealing damage.
+
+These are possible expressions of the concept, not necessarily separate locked-in techniques.
+
+#### Jester's Truthful Limitation
+
+Jester becomes more effective when Aiden is genuinely playful, spontaneous, and willing to make a fool of himself.
+
+It weakens when Aiden forces jokes to attract attention, uses the fireworks purely to show off, or becomes preoccupied with making everyone admire how entertaining he is. At that point, the fireworks lose their supernatural effect and the Jester mask becomes an ordinary mask.
+
+**The distinction:** Jester is not powered by making people laugh or by being the centre of attention. It is powered by Aiden genuinely letting go of the need to control how he is perceived.
+
+---
+
+## Truthful Manifestation
+
+Each mask has a personality and a benefit, but the benefit depends on Aiden genuinely expressing that aspect of himself. He cannot simply put on a mask and imitate its personality for an audience.
+
+When Aiden's behaviour becomes a performance designed to impress, the mask's manifestation degrades:
+
+1. The mask's Forge effects become less stable or effective.
+2. Its supernatural benefit fades as Aiden prioritises appearance over genuine expression.
+3. If he persists in the performance, the mask becomes an ordinary physical mask and its benefits disappear.
+
+This is not triggered merely by being watched. Aiden can use his ability in front of an audience and remain effective if he is genuinely immersed in what he is doing. The problem is the act of performing for approval, not the presence of observers.
+
+The masks are therefore not inherently unreliable. Their effectiveness reflects Aiden's honesty with himself.
+
+---
+
+## Vainglory Limitation
+
+Aiden's Forge constructs become worse when he is showing off.
+
+When he is conscious of being watched and trying to impress, his constructs — particularly his shackles — become larger, louder, more decorative, and less stable. They look stronger than they are. They break under pressure because the first design priority was being seen.
+
+When he is not performing, the shackles become smaller, cleaner, and harder to break. His Forge output coordinates better because he is solving the problem instead of auditioning for belief.
+
+This general limitation applies alongside the mask-specific rules: a mask may give Aiden a distinct benefit, but Vainglory can undermine that benefit when he turns it into a performance.
+
+**The ability is not unreliable. Aiden is.**
+
+---
+
+## Possible Evolution — Stagecraft
+
+If Aiden's mature signature expands beyond binding, **Stagecraft** is a strong final concept.
+
+### Early Stagecraft
+
+Aiden's Forge output expands into flashy platforms, barriers, and bindings that announce themselves before they function. The constructs may look impressive, but their design is still shaped by his need to be noticed.
+
+### Mature Stagecraft
+
+Aiden develops coordinated Forge architecture that controls the fight space with minimal waste.
+
+- Platforms appear where allies need footing.
+- Barriers land where they protect rather than where they impress.
+- Shackles lock the exact joint that matters.
+- Constructs work together as a coherent environment instead of isolated displays.
+
+The stage no longer exists to prove Aiden is important. It exists so everyone can move correctly.
+
+This preserves Forge while sharpening Aiden's character arc: he stops building monuments to his insecurity and starts building structures that hold.
+
+---
 
 ## Character Arc
 
-- **Early:** fights as exhibition; blames technique, opponents, anything external.
-- **Middle:** trains alone, notices the difference, refuses to name what it means. The Yoshi moment gave him the first data point where his Pressure worked *for* someone; slow accumulation begins, and what he needs and what he gets draw closer.
-- **Late:** fights alongside someone, lets them take the main role, does not announce it. The shackles hold.
-- **Resolution:** he stays loud instead of shrinking. Real self-belief roots where borrowed belief used to be.
+At first, Aiden may treat the masks as a way to become people more impressive than himself. He may believe that his ordinary personality is not enough, and that he needs a role to justify being noticed.
+
+Over time, he can come to understand that the masks do not create a worthier person. They give form to aspects of himself that he already possesses. His growth is not about finding the perfect persona or learning how to perform convincingly. It is about no longer treating his real self as something that must be hidden.
+
+The masks do not have to represent only admirable traits. Authenticity does not automatically make someone better; it allows Aiden's power to express what is genuinely there.
+
+---
 
 ## Cross-Links
 
-- [[Akarui]] - his path.
-- [[Forge]] - his class.
-- [[Shackles]] - his signature.
-- [[Mai Takeda]] - older sibling; Pride fully calcified.
-- [[Tenebri]] - sibling's affiliation.
-- [[Pressure]] - Vainglory; borrowed self-belief through recognition.
-- [[Yoshi Kusakabe]] - the incident where his Pressure first saved someone.
-- [[Kaito Amori]] - Shame-Pride / Inadequacy contrast.
-- [[Aoki Sora]] - childhood neighbour from the Netmenders' Tier; separated at six/eight by the evacuation; he announced his feelings to the group while she was on watch ([[Arc 2 — The Knot and the Announcement]]). He does not know, and must not be told cheaply, that the kite-line phrase he still uses was hers.
+- [[Aiden Takeda]] — character; Akarui Forge; Vainglory.
+- [[Forge]] — the Class; making something real enough to stay.
+- [[Classes]] — affinity overview.
+- [[Mai Takeda]] — sibling mirror; Pride calcified into effortless hierarchy.

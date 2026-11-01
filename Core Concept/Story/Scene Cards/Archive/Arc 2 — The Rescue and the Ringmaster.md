@@ -10,17 +10,21 @@ aliases:
   - Circus Arc Cards
 ---
 
-# Arc 2 — The Rescue and the Ringmaster
+# Arc 2 — The Rescue and the Ringmaster (v3)
 
-The restructured back half of Arc 2 (Aiden is captured by the Ku-Clowns; Kaito is taken by a Tenebri and speculated dead; the group fights through a monochrome circus to find him; the Announcement closes the arc, followed by the sting. Connecting cards: [[Arc 2 — The Knot and the Announcement]]. 
+The restructured back half of Arc 2 (user-directed 2026-08-29; v3 applies questionnaire answers and replaces the Ringmaster/Five Acts/Echo Beat designs). **Sora's K.E.F. capture is cancelled canon.** Aiden is captured by the Ku-Clowns instead; Kaito is taken by a Tenebri and speculated dead; the group fights through a monochrome circus to find him; the Announcement closes the arc, followed by the sting. Companion cards: [[Arc 2 — The Knot and the Announcement]]. Answers: [[to-questionnaire-announcement-and-recognition]].
+
+**Note on the title:** kept for file-history continuity; the Ringmaster is scrapped canon. The antagonist unit is now the Five Stages.
 
 ---
 
+## New Canon Designs (user-confirmed direction, details agent-proposed)
+
 ### Why Niko Juul takes Kaito
 
-[[Niko Juul]] was shopping at the Ku-Clown site — specimens, relics, signatures. Canon: Rapt consumes *spoken signature names*, Divergence is untouchable only while unnamed, and Niko's documented approach is manufacturing urgency to force the naming. Kaito is the locked door he cannot open. He intercepts the rescue, takes Kaito, and leaves the Ku-Clowns nothing. Consequences: (1) the naming-scene fuse is lit on-page; (2) Ku establishes a names-ban at the wreckage as "someone took him that collects what he hears" without naming the Tenebri; (3) Niko delivers one unexplained line about a former Tenebri who left. (Daiki,Alice reveal stays early Arc 4).
+[[Niko Juul]] was shopping at the Ku-Clown site — specimens, relics, signatures. Canon: Rapt consumes *spoken signature names*, Divergence is untouchable only while unnamed, and Niko's documented approach is manufacturing urgency to force the naming. Kaito is the locked door he cannot open. He intercepts the rescue, takes Kaito, and leaves the Ku-Clowns nothing. Consequences: (1) the naming-scene fuse is lit on-page; (2) Ku imposes a names-ban at the wreckage — "something took him that collects what it hears" — without naming the Tenebri (feeding his Arc 3 disclosure debt); (3) Niko delivers one unexplained line about a former Tenebri who left and asks after Amori children — the Daiki hint, nothing more (Alice reveal stays early Arc 4).
 
-### The Five Stages (masked Kyumin) 
+### The Five Stages (masked Kyumin, grief-stage reliquary) — replaces the Five Acts
 
 Five masked Kyumin, each carrying a Relic from a human who died stuck in one stage of grief. The masks are relic-white housings over hand/eye/heart Relics and deform toward the dead face as each Stage draws power — and each stage deforms differently: **Denial's** features smooth out until the mask is nobody's; **Anger's** cracks and chars; **Bargaining's** smile widens past where a smile should stop; **Depression's** sinks, hollowing; **Acceptance's** never moves at all — it is already a face at rest. They are ushers, not killers: their job is to seat the living. Every Stage's power is **ring-bounded**: a visible circle inside which one law holds. Rings cannot overlap; crossing a boundary frees the crosser only; the lawless seams between rings are patrolled; Relic cooldowns (see [[Relic]]) are real — a Stage caught between uses is just an exhausted masked person. The cast fights the stages **in grief order**, because the show is structured that way: the venue runs its patrons through the sequence on purpose.
 

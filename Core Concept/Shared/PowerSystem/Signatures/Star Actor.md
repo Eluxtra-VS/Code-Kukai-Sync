@@ -10,7 +10,7 @@ aliases:
   - Stagecraft
 ---
 
-# Shackles / Stagecraft
+# Star Actor
 
 [[Aiden Takeda|Aiden]]
 
@@ -18,13 +18,10 @@ aliases:
 
 ## Short Definition
 
-**Shackles** is Aiden Takeda's working Akarui Forge signature. It externalises his Vainglory: the need to make the encounter stay with him because he does not trust himself to matter if attention moves elsewhere.
-
-The ability may later evolve or be renamed **Stagecraft** if the story wants his Forge expression to broaden from bindings into coordinated combat architecture.
-
+**Star Actor** is Aiden Takeda's working Akarui Forge signature. It externalises his Vainglory as masks: each mask has a different personality and benefit that represents the different parts that make up Aiden's personality
 ## Pressure Logic
 
-Aiden's Vainglory covers the fear of being ignorable: performed pride standing over absent self-belief, so his deepest desire is to build something real enough that it cannot be dismissed — visible proof that he exists correctly, which is Forge's desire. The signature expresses the pressure through its sincerity stabilizer: shackles formed while auditioning for attention come out large, decorative, and hollow; shackles formed while solving the actual problem come out small, clean, and holding. His power is not unreliable — his relationship with recognition is, and the mechanic measures that gap every time he builds. Full character context: [[Aiden Takeda]]
+Aiden's Vainglory covers the fear of being ignorable: performed pride standing over absent self-belief, so his deepest desire is to build something real enough that it cannot be dismissed — visible proof that he exists correctly, which is Forge's desire. The signature expresses the pressure through its truthful nature, his masks   Full character context: [[Aiden Takeda]]
 
 ---
 

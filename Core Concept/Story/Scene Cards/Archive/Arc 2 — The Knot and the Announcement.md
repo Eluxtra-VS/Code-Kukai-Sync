@@ -12,7 +12,7 @@ aliases:
 
 # Arc 2 — The Knot and the Announcement
 
-Two scene cards plus the backstory canon that connects [[Aiden Takeda]] and [[Aoki Sora]]. Backstory direction is user-confirmed (2026-08-29). Cards are in the same format as [[Arcs 2–3 — Pursuit and Tenebri]]
+Two scene cards plus the backstory canon that connects [[Aiden Takeda]] and [[Aoki Sora]]. Backstory direction is user-confirmed (2026-08-29). Cards are modular production units in the same format as [[Arcs 2–3 — Pursuit and Tenebri]]; the confession prose draft lives at [[Arc 2 — The Announcement (Scene Draft v2)]].
 
 **Order in the arc:** recognition card slots after card 3 ("What Sora Fixes"); the announcement slots after card 5 ("Ku-Clown Observation") and before card 6 ("K.E.F. Contact"). This placement means the unspoken confession is already hanging over the group when Sora is captured in card 8, and nobody has told her.
 

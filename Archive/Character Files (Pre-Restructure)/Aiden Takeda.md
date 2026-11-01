@@ -121,7 +121,7 @@ Resolution: Aiden does not become less loud by becoming smaller. He develops rea
 
 - [[Akarui]] - his path.
 - [[Forge]] - his class.
-- [[Shackles]] - his signature.
+- [[Star Actor]] - his signature.
 - [[Mai Takeda]] - his older sibling; Pride fully calcified.
 - [[Tenebri]] - his sibling's affiliation.
 - [[Pressure]] - Vainglory; borrowed self-belief through recognition.
